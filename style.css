@@ -426,13 +426,13 @@ footer {
     header{
         height: 60px;
         &>#logo {
-            font-size: 20px;
+            font-size: 24px;
             & >.logo-img {
                 height: 40px;
                 width: 40px;
             }
             &:hover{
-                font-size: 22px;
+                font-size: 25px;
             }
         }
         &> .menu {
