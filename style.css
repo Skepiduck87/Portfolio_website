@@ -541,7 +541,7 @@ footer {
     }
 }
 
-@media screen and (max-width:380px) {
+@media screen and (max-width:383px) {
     #portfolio{
         height: 50vh;
         &>.portfolio-container{
